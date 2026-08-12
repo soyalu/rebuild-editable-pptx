@@ -1,0 +1,4 @@
+interface:
+  display_name: "Editable PPTX Rebuilder"
+  short_description: "Rebuild screenshots as highly editable PowerPoint slides"
+  default_prompt: "Use $rebuild-editable-pptx to recreate this slide screenshot as a 16:9 editable PPTX with separated text, shapes, images, and consistent icons."
